@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 2089px;
+  min-height: 1921px;
 }
 
 .u-section-1 .u-group-1 {
@@ -187,7 +187,7 @@
   min-height: 111px;
   height: auto;
   margin-top: 9px;
-  margin-bottom: 60px;
+  margin-bottom: 8px;
 }
 
 .u-section-1 .u-container-layout-9 {
@@ -455,12 +455,13 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 363px;
+    min-height: 407px;
   }
 
   .u-section-1 .u-image-2 {
     margin-top: 32px;
-    margin-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-text-3 {
